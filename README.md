@@ -1,1 +1,11 @@
 # Municipality-Insights-Navigating-Alberta-s-Multidimensional-Data
+
+Embarking on this comprehensive project, our primary goal is to delve into Alberta's open data, extracting insights that hold significance for both established residents and newcomers. Our exploration encompasses three key sectors: Housing, Health/Environment, and Business/Economy. Recognizing the importance of a data-centric approach, we are committed to empowering informed decision-making, catalyzing positive change, and shedding light on various aspects of Alberta.
+
+This initiative serves to enable current and potential Albertan citizens and promote a stronger collective understanding of its municipalities. After establishing a common ground of Alberta's recent events (i.e. housing crisis (Calgary City Council to Hold Special Meeting to Address ‘Housing Crisis'., (2023).), transportation projects (Alberta NDP calls on Province to Fully Commit to Calgary's Green Line Funding., (2023).), and wildfires (Wildfires in Alberta Could Burn All Winter: Official., (2023).)), we gained a newfound interest in gaining a better understanding of these sectors relating to Alberta specifically over the past decade. The diverse perspectives within our team, including both newcomers and long-term residents, add depth to our understanding of Alberta's nuances.
+
+In the housing sector, our research seeks answers to compelling questions, unraveling the unique characteristics of Alberta's priciest housing municipalities, tracking the evolution of rent rates over time, and identifying areas with the highest concentration of family-style homes.
+
+Shifting focus to Health/Environment, our inquiries delve into how municipalities compare in terms of air quality and population growth, aiming to paint a historical picture of the environmental landscape and demographic trends in Alberta.
+
+In the realm of Business/Economy, our research aims to untangle the intricate relationship between taxes and business creation. Additionally, we seek to reveal the impact of government project funding on the proliferation of businesses within the province. By addressing these critical questions, our project aims to offer nuanced insights that can guide strategic decisions and contribute to the sustainable development of Alberta.
